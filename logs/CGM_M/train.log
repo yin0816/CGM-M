@@ -1,0 +1,26 @@
+2022-04-17 15:28:41,929:INFO: Training model: CGM_M
+2022-04-17 15:28:42,023:DEBUG: Building prefix dict from the default dictionary ...
+2022-04-17 15:28:42,025:DEBUG: Loading model from cache C:\Users\61808\AppData\Local\Temp\jieba.cache
+2022-04-17 15:28:42,525:DEBUG: Loading model cost 0.501 seconds.
+2022-04-17 15:28:42,525:DEBUG: Prefix dict has been built successfully.
+2022-04-17 15:28:42,934:INFO: Vocab size src/tgt:192/135
+2022-04-17 15:28:53,150:INFO: train/val/test size: 482/207/207
+2022-04-17 15:28:55,707:INFO: #paras of my model: enc 4.650045M  dec 9.110703M total 13.760748M
+2022-04-17 15:28:55,707:INFO: ************ Start eval... ************
+2022-04-17 15:28:55,868:INFO: Use epoch 167 as the best model for testing
+2022-04-17 15:42:39,814:INFO: Training model: CGM_M
+2022-04-17 15:42:39,911:DEBUG: Building prefix dict from the default dictionary ...
+2022-04-17 15:42:39,912:DEBUG: Loading model from cache C:\Users\61808\AppData\Local\Temp\jieba.cache
+2022-04-17 15:42:40,428:DEBUG: Loading model cost 0.517 seconds.
+2022-04-17 15:42:40,428:DEBUG: Prefix dict has been built successfully.
+2022-04-17 15:42:40,847:INFO: Vocab size src/tgt:192/135
+2022-04-17 15:43:41,044:INFO: Training model: CGM_M
+2022-04-17 15:43:41,142:DEBUG: Building prefix dict from the default dictionary ...
+2022-04-17 15:43:41,143:DEBUG: Loading model from cache C:\Users\61808\AppData\Local\Temp\jieba.cache
+2022-04-17 15:43:41,661:DEBUG: Loading model cost 0.519 seconds.
+2022-04-17 15:43:41,661:DEBUG: Prefix dict has been built successfully.
+2022-04-17 15:43:42,081:INFO: Vocab size src/tgt:192/135
+2022-04-17 15:43:52,542:INFO: train/val/test size: 482/207/207
+2022-04-17 15:43:55,149:INFO: #paras of my model: enc 4.650045M  dec 7.468591M total 12.118636M
+2022-04-17 15:43:55,149:INFO: ************ Start eval... ************
+2022-04-17 15:43:55,254:INFO: Use epoch 167 as the best model for testing

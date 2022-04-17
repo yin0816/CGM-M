@@ -1,0 +1,11 @@
+=============final_results===============
+Epoch =263
+Action Acc: 0.450
+Bleu_1: 0.541 
+Bleu_2: 0.439 
+Bleu_3: 0.378 
+Bleu_4: 0.346 
+ROUGE_L: 0.542 
+CIDEr: 2.709 
+
+meteor_nltk: 0.442 

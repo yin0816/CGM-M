@@ -1,0 +1,10 @@
+2022-04-17 16:22:23,663:INFO: Training model: CGM_T
+2022-04-17 16:22:23,758:DEBUG: Building prefix dict from the default dictionary ...
+2022-04-17 16:22:23,759:DEBUG: Loading model from cache C:\Users\61808\AppData\Local\Temp\jieba.cache
+2022-04-17 16:22:24,264:DEBUG: Loading model cost 0.506 seconds.
+2022-04-17 16:22:24,264:DEBUG: Prefix dict has been built successfully.
+2022-04-17 16:22:24,677:INFO: Vocab size src/tgt:192/135
+2022-04-17 16:22:35,204:INFO: train/val/test size: 482/207/207
+2022-04-17 16:22:37,759:INFO: #paras of my model: enc 4.650045M  dec 6.028591M total 10.678636M
+2022-04-17 16:22:37,759:INFO: ************ Start eval... ************
+2022-04-17 16:22:37,868:INFO: Use epoch 23 as the best model for testing

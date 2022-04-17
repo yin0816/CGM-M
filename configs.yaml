@@ -1,0 +1,31 @@
+TRAIN_VOCAB_EN: data/train_vocab_en.txt
+TRAIN_VOCAB_ZH: data/train_vocab_zh.txt
+RESULT_DIR: results/
+LOG_DIR: logs/
+CHK_DIR: checkpoints/
+# DATA_DIR: data/
+#DATA_DIR: H:/vatex_features/
+#DATA_DIR: H:/IIT-V2C-image/
+DATA_DIR: E:/dataset/IIT-V2C-image/
+MAX_INPUT_LENGTH: 10  # 40
+MAX_VID_LENGTH: 32  # 32
+batch_size: 16  # 128  # 512
+wordembed_dim: 300
+enc_ch_hid_size: 600  # 512
+enc_hid_size: 600  # 512
+dec_hid_size: 600 # 512  # no-ch
+#dec_hid_size: 1024  # use-ch
+PS_threshold: 0.2
+frame_embed_size: 600 # 300 512
+frame_size: 2048
+teacher_ratio: 1.0  # 1
+decoder_lr: 0.0001  # 0.0001
+encoder_ch_lr: 0.0001
+encoder_lr: 0.0001  # 0.0001
+vid_embed_lr: 0.0001  # 0.0001
+weight_decay: 0.00000  # 0.00001
+grad_clip:  # 5.0  # big_value_on_grad_clip
+epochs: 300
+seed: 2021
+model_type: s2s
+#train_id: en2zh

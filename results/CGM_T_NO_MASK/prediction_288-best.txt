@@ -1,0 +1,11 @@
+=============final_results===============
+Epoch =288
+ 
+Bleu_1: 0.585 
+Bleu_2: 0.533 
+Bleu_3: 0.507 
+Bleu_4: 0.504 
+ROUGE_L: 0.683 
+CIDEr: 3.410 
+ 
+meteor_nltk: 0.521 
